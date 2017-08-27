@@ -1,0 +1,11 @@
+main: com.rater193.sp.StructurePhysics
+name: Raters Structure Physics
+version: 1.0
+author: rater193
+description: This makes the game have proper (fun) physics!
+commands:
+  sp:
+    description: An example command
+    usage: /sp ?
+    permission: sp.help
+    permission-message: You don't have the sp.help permission.
